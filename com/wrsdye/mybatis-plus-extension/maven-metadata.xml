@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wrsdye</groupId>
+  <artifactId>mybatis-plus-extension</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211215034519</lastUpdated>
+  </versioning>
+</metadata>
