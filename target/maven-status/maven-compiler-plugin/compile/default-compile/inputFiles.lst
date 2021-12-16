@@ -1,0 +1,6 @@
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/handler/MapperLoadHandler.java
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/handler/MapperClassPathBeanDefinitionScanner.java
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/utils/MapperSqlHelper.java
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/annotation/BuildMapper.java
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/annotation/EnableAutoMapper.java
+/Users/wangrx/IdeaProjects/mybatis-plus-extension/src/main/java/com/wrsdye/core/CommonBaseMapper.java
